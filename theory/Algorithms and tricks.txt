@@ -1,5 +1,5 @@
 Searching and sorting
   
-  Search
-    merge
-    
+  Sorting
+    merge
+    
